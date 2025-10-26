@@ -8,7 +8,4 @@ It accepts `n` commodities (name, unit price, quantity) and can operate with dif
 - Dynamic allocation and RAII (constructor / destructor).
 - Basic arithmetic helper methods (`multiply`, `add`) and formatted invoice output.
 
-## Usage
-Compile:
-```bash
-g++ -std=c++11 BillingOp_template.cpp -o BillingOp
+
